@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Azure, .Net
-- 🌱 I’m currently learning ... Reactjs
+- 🌱 I’m currently learning ... Reactjs, Docker
 - 👯 I’m looking to collaborate on ... Azure
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Visit](www.arpitfs.cf)
