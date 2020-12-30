@@ -7,7 +7,7 @@
 - 📫 How to reach me: ... [Visit](www.arpitfs.cf)
 - 😄 Pronouns: ... Mr
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitfs&show_icons=true&locale=en&layout=compact" alt="arpitfs" />
+
   
 ![](https://vistr.dev/badge?repo=arpitfs)
 [![](https://img.shields.io/badge/-@arpitfs-%23181717?style=flat-square&logo=github)](https://github.com/arpitfs)
