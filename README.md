@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Azure, .Net
-- 🌱 I’m currently learning ... Reactjs, Docker
-- 👯 I’m looking to collaborate on ... Azure
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...   [Visit](https://arpitfs.cf)
-- 😄 Pronouns: ... Mr
+- Cloud Skills: Azure, AWS
+- Languages: C#, GO, Nodejs
+- Containerization/Virtualization: K8s, Docker
+- Operating Systems: Windows, Linux
+- IaC - Terraform, ARM
+- Other Skills: CI/CD
+- How to reach me: ...   [Visit](https://arpitfs.cf)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitfs&layout=compact)](https://github.com/arpitfs/)
   
