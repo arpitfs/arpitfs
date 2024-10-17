@@ -5,6 +5,7 @@
 - Containerization/Virtualization: K8s, Docker
 - Operating Systems: Windows, Linux
 - IaC - Terraform, ARM
+- UI - Angular
 - Other Skills: CI/CD
 - How to reach me: ...   [Visit](https://arpitfs.cf)
 
