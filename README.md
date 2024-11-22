@@ -7,7 +7,7 @@
 - IaC - Terraform, ARM
 - UI - Angular
 - Other Skills: CI/CD
-- How to reach me: ...   [Visit]([https://arpitfs.cf](https://arpitfs.github.io/portfolio/))
+- How to reach me: ...   [Visit](https://arpitfs.github.io/portfolio/)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitfs&layout=compact)](https://github.com/arpitfs/)
   
